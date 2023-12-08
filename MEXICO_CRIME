@@ -1,0 +1,13 @@
+[
+  {
+    "year": 2019,
+    "entity_code": "1",
+    "entity": "Aguascalientes",
+    "affected_legal_good": "Life and bodily integrity",
+    "type_of_crime": "Homicide",
+    "subtype_of_crime": "Intentional Homicide",
+    "modality": "With firearm",
+    "month": "January",
+    "count": "3"
+  }
+]
